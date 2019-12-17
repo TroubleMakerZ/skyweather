@@ -1,0 +1,10 @@
+<litepal>
+    <dbname value="sky_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.zxx.skyweather.data.model.place.Province" />
+        <mapping class="com.zxx.skyweather.data.model.place.City" />
+        <mapping class="com.zxx.skyweather.data.model.place.County" />
+    </list>
+    <storage value="external" />
+</litepal>
