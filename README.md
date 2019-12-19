@@ -2,10 +2,10 @@
 
 天气预报
 
-dome练手项目
+demo练手项目
 
 jetpack框架mvvm项目
 
 
 
-![image](https://raw.githubusercontent.com/TroubleMakerZ/skyweather/master/display/show1.png)
+![display](https://github.com/TroubleMakerZ/skyweather/blob/master/display/display.gif)
